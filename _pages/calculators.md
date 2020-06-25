@@ -52,6 +52,37 @@ comments: false
 <a href="https://johnvneun.com/calc" target="_blank" rel="noopener noreferrer">
     <img class="img-fluid lazyimg" src="/assets/images/JVN-Calc.20180119.png">
 </a>
+
+</div>
+</div>
+</div>
+
+<h4>Spectrum Design Calculator</h4>
+
+<div class="row justify-content-center">
+    <div class="col-md-10 mx-auto pr-5">
+        <div class="text-center">
+        <p>The Spectrum design spreadsheet combines tons of useful resources together for calculating pneumatics, mechanical systems (belts, chains, gears, etc.), electrical, and much more. This is a great spreadsheet to always have open while designing.</p>
+
+<a href="http://designsheet.spectrum3847.org" target="_blank" rel="noopener noreferrer">
+    <img class="img-fluid lazyimg" src="/assets/images/spectrumdesigndoc.png">
+</a>
+
+</div>
+</div>
+</div>
+
+<h4>ILITE Drivetrain Simulator</h4>
+
+<div class="row justify-content-center">
+    <div class="col-md-10 mx-auto pr-5">
+        <div class="text-center">
+        <p>This spreadsheet provides a lot of advanced calculations for FRC drivetrains. You can use this to optimize your gear ratios for specific travel distances and current draws.</p>
+
+<a href="https://www.chiefdelphi.com/t/ilite-drivetrain-simulator-v2020/369188" target="_blank" rel="noopener noreferrer">
+    <img class="img-fluid lazyimg" src="https://www.chiefdelphi.com/uploads/default/original/3X/b/e/beea7c99531bb297a82c090cee34632e1c48be5f.png">
+</a>
+
 </div>
 </div>
 </div>

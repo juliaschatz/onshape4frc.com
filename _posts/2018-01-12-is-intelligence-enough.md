@@ -4,10 +4,13 @@ title:  "External Featured Image"
 author: sal
 categories: [ Jekyll, tutorial, web development ]
 image: "https://images.unsplash.com/photo-1541544537156-7627a7a4aa1c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20c472bc23308e390c8ffae3dd90c60&auto=format&fit=crop&w=750&q=80"
+comments: false
 ---
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
 > We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
+
+![](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
 
 Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
 

@@ -10,6 +10,7 @@ comments: false
 
 <p>This is a collection of various mechanical calculators which are useful while designing. These can help with determining gear ratios, gear center to centers, belt center to centers, chain lengths, and much more.</p>
 
+<div id="WCP">
 <h4>West Coast Products Calculators</h4>
 
 <div class="row justify-content-center">
@@ -41,7 +42,9 @@ comments: false
             </a>        </div>
     </div>
 </div>
+</div>
 
+<div id="JVN">
 <h4>JVN Design Calculator</h4>
 
 <div class="row justify-content-center">
@@ -57,6 +60,7 @@ comments: false
 </div>
 </div>
 
+<div id="Spectrum">
 <h4>Spectrum Design Calculator</h4>
 
 <div class="row justify-content-center">
@@ -71,7 +75,10 @@ comments: false
 </div>
 </div>
 </div>
+</div>
+</div>
 
+<div id="ILITE">
 <h4>ILITE Drivetrain Simulator</h4>
 
 <div class="row justify-content-center">
@@ -83,6 +90,7 @@ comments: false
     <img class="img-fluid lazyimg" src="https://www.chiefdelphi.com/uploads/default/original/3X/b/e/beea7c99531bb297a82c090cee34632e1c48be5f.png">
 </a>
 
+</div>
 </div>
 </div>
 </div>

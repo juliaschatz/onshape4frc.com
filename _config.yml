@@ -32,41 +32,46 @@ authors:
 
 # Featurescripts
 featurescripts:
+  ExtrudeIndividual:
+    name: Extrude Individual
+    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/f59ee8c28530122eb7fa9f5c
+    image: /assets/images/extrudeindividual.png
+    description: Select a sketch and automatically create a new body for each section of the sketch. Useful for creating multiple tubes in one operation.
   TubeConverter:
     name: Tube Converter
-    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/b92d638809ae48771ecc7ad8
+    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/7f62400703032fab9a7a3320
     image: /assets/images/tubeconverter.png
     description: Coverts a raw extrusion into a tube like is typically used in FRC with parameters for tube thickness and hole patterns.
   FilletXpert:
     name: FilletXpert
-    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/b92d638809ae48771ecc7ad8
+    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/be51a7d601bee5eb80c431ad
     image: /assets/images/FilletXpert.png
     description: Fillet all edges touching a face in a certain direction. Based on Solidworks’ FilletXpert feature.
   shaft:
     name: Shaft Generator
-    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/b92d638809ae48771ecc7ad8
+    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/8db1f48368bdac821997185f
     image: /assets/images/shaft-generator.png
     description: Quickly generate shafts with parameters for choosing shaft retention methods.
   spacer:
     name: Spacer Generator
-    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/b92d638809ae48771ecc7ad8
+    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/9d38ab00b89aa97b6c65b7b0
     image: /assets/images/spacer-generator.png
     description: Quickly generate custom spacers.
   gusset:
     name: Gusset Generator
-    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/b92d638809ae48771ecc7ad8
+    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/80b86b695b75c4dcf2be5a7f
     image: https://www.chiefdelphi.com/uploads/default/original/3X/8/f/8f7ba06976668b45d5ab61a55deec51f812a1ab0.png
     description: Generate gussets by simply selecting the holes which define the shape of the gusset.
-  iso:
-    name: Isogrid Pattern
-    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/b92d638809ae48771ecc7ad8
-    image: /assets/images/isogrid.png
-    description: Adds an Isogrid pattern to parts.
   lighten:
     name: Lighten
     link: https://cad.onshape.com/documents/573f7d70e4b0fddafb52148c/v/85bb63ae5685ae3614116952/e/5eccf6d369b0312a728d77d3
     image: /assets/images/lighten.png
     description: Lighten your parts easier with this featurescript and a sketch of the areas you want removed.
+  iso:
+    name: Isogrid Pattern
+    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/0d7c22c952c5c2ee2cfb1e43
+    image: /assets/images/isogrid.png
+    description: Adds an Isogrid pattern to parts.
   # Plugins
 plugins:
   - jekyll-paginate

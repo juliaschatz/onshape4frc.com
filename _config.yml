@@ -13,28 +13,10 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    cd: sal
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: "assets/images/avatar.png"
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    cd: john
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   max:
     name: Max Westwater
     display_name: Max Westwater
+    team: 6328/5254
     avatar: https://www.chiefdelphi.com/user_avatar/www.chiefdelphi.com/maximillian/120/146348_2.png
     email: maxwestwater@gmail.com
     cd: maximillian
@@ -42,6 +24,7 @@ authors:
   jack:
     name: Jack Tervay
     display_name: Jack Tervay
+    team: 6328/2791
     avatar: https://www.chiefdelphi.com/letter_avatar_proxy/v4/letter/j/5daacb/120.png
     email: jacktervay@gmail.com
     cd: jacktervay

@@ -25,7 +25,14 @@ comments: false
         </div>
         <div id="mkcad">
             <h4>Linking MKCad Parts Library</h4>
-            <p>Tag all the parts libraries</p>
+            <p>To get easy access to the COTS parts library when it is time to use them it is best to tag all of the documents you will be using. This section will walk you though how to do that.</p>
+            <ol>
+            <li>Do a public search in Onshape for 'MKCad'. This can easily be done by clicking <a target="_blank" rel="noopener noreferrer" href="https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:MKCad">this link</a>.</li>
+            <li>Click the label icon in the top right (next to the trash can) and then in the drop down click 'Create New Label'. Call it 'MKCad'</li>
+            <li>Next you will add all any documents owned by 'Milkenknights Test Account' or 'Ricky Marcus' to this label by right clicking on the document, clicking 'Labels...', then adding to the newly created MKCad label</li>
+            <ul><li>There should be around 31 tagged documents by the time you're done</li></ul>
+            </ol>
+            <p>You should now see the label with all the documents on the left side of navigation below the create button.</p>
         </div>
         <div id="featurescripts">
             <h4>Adding Useful Featurescripts</h4>

@@ -10,32 +10,19 @@ comments: false
 
 <p>This website was created as a collection of resources to help teach CAD and Design for FRC using Onshape (although many concepts could apply to other software) on team <a href="http://littletonrobotics.org/">6328</a>. We decided to open source the resources to help other teams and encourage others to add to and improve the content.</p>
 
-<!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
-
 <h4>Meet the Team</h4>
 
 <p>Check out the list of our contributers to the site. If you have content you're interested in adding feel free to using our <a href="/contribute">contribute</a> page.</p>
 
 {% for authors in site.authors %}
-    {% assign author = authors[1] %}
-    {% include author.html %}
+{% assign author = authors[1] %}
+{% include author.html %}
 {% endfor %}
 
-<h4>Questions or Bug Reports?</h4>
+<h4>Want to see yourself on the list?</h4>
 
-<p>Head over to our <a href="https://github.com/Max5254/onshape4frc.com">Github repository</a>!</p>
+<p>Head over to our <a href="/contribute">contribute page</a> to learn how to help us fix or add more content. We're always looking for feedback.</p>
 
 </div>
 
-<!-- <div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div> 
-</div>-->
 </div>

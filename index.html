@@ -3,59 +3,78 @@ layout: default
 title: Home
 ---
 
-{% if page.url == "/" %}
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
+<section>
     <div class="section-title">
-        <h2><span>Featured</span></h2>
+        <h2><span>About Us</span></h2>
+        <p>This site was created by a group of 6328 mentors to serve as a collection of resources to help teach CAD and
+            design concepts to our students while in the process of transitioning fully to Onshape. It is being used
+            internally on the team but we decided to make the
+            resources public to help the community in the spirit of the #OpenAlliance. If you have feedback or would
+            like to contribute to the site please <a href="/contribute">reach out</a> to us.</p>
     </div>
     <div class="row">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
 
     </div>
 </section>
 
-{% endif %}
-
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
+<section>
     <div class="section-title">
+        <h2><span>Getting Started</span></h2>
+        <p>New to Onshape? Trying to get everything set up correctly? Wondering what tutorials and exercises to do to
+            get started? Visit our getting started page to walk though all the steps to start learning Onshape.</p>
+        <a href="/getting-started" class="btn btn-primary">Start Learning</a>
+    </div>
+</section>
 
-        <h2><span>All Stories</span></h2>
-
+<section>
+    <div class="section-title">
+        <h2><span>Resources</span></h2>
+        <!-- <p>This site is a collection of resources for FRC focusing on design using Onshape.</p> -->
+        <div class="row">
+            <div class="col-md-4">
+                <h4 class="text-center">Calculators</h4>
+                <p>Useful mechanical calculators to help with design.</p>
+                <a href="/calculators">
+                    <img class="img-fluid lazyimg" src="/assets/images/calc-homepage.png">
+                </a>
+            </div>
+            <div class="col-md-4">
+                <h4 class="text-center">CAD Library</h4>
+                <p>COTs components and custom scripts to use in Onshape.</p>
+                <a href="/cad-library">
+                    <img class="img-fluid lazyimg" src="/assets/images/library-homepage.png">
+                </a>
+            </div>
+            <div class="col-md-4">
+                <h4 class="text-center">External Resources</h4>
+                <p>Content from other sources to help teach design.</p>
+                <a href="/external-resources">
+                    <img class="img-fluid lazyimg" src="/assets/images/externalresources-homepage.png">
+                </a>
+            </div>
+        </div>
     </div>
 
-    <div class="row listrecent">
+</section>
 
-        {% for post in paginator.posts %}
+<!-- Featured Blog Posts
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Blog</span></h2>
+        <p>Check out these few featured blog posts, be sure to check out the full blog <a href="/blog">here</a>.</p>
+    </div>
+    <div class="row">
 
-        {% include postbox.html %}
+        {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+        {% include featuredbox.html %}
+
+        {% endif %}
 
         {% endfor %}
 
     </div>
-
 </section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
-

@@ -91,7 +91,9 @@ section.recent-posts {
 }
 
 .article-post ol ol,
-.article-post ul ul {
+.article-post ul ul,
+.article-post ol ul,
+.article-post ul ol {
     list-style: disc;
     margin-bottom: 0rem;
 }

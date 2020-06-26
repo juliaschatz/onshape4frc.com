@@ -11,7 +11,17 @@ comments: false
         <p>This page is designed to walk you through getting started with Onshape. It will cover creating your account, linked the helpful parts libraries, and following the basic tutorials.</p>
         <div id="account">
             <h4>Creating Your Account</h4>
-            <p>First you should create an educational account using <a target="_blank" rel="noopener noreferrer" href="https://www.onshape.com/education-plan">this link</a>.</p>
+            <ol>
+                <li>Navigate to <a target="_blank" rel="noopener noreferrer" href="https://www.onshape.com/education-plan">onshape.com/education-plan</a></li>
+                <li>Fill in the information on this page and click 'Create EDU Account'</li>
+                <li>Fill in the information for your school and agree to the terms then click 'Create Account'</li>
+                <ul><li>You can simply put 'FIRST Robotics' for what you plan to use Onshape for</li></ul>
+                <li>Check the email you used to sign up in the earlier step</li>
+                <li>Open the Onshape account activation email and click the link to activate your account</li>
+                <li>You will be sent to a page where you can now create your username and password</li>
+                <li><b>Optional: Join the Onshape Team for your FRC Team</b></li>
+                <ul><li>If you have an Onshape team you will need to contact whoever has access on your team with the email you used to sign up for Onshape so you can be added.</li></ul>
+                </ol>
         </div>
         <div id="mkcad">
             <h4>Linking MKCad Parts Library</h4>

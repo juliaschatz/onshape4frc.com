@@ -55,6 +55,12 @@ comments: false
     </div>
     <div class="col-md-8 pr-5">
     <p>{{ feature.description }}</p>
+    {% if feature.howto %}
+    <a target="_blank" rel="noopener noreferrer" href="{{ feature.howto }}">
+    Learn how to use {{ feature.name }}
+    </a>
+    {% endif %}
+    <hr>
     <a target="_blank" rel="noopener noreferrer" 
     href="{{ feature.link }}">
     {{ feature.name }} Link

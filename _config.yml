@@ -39,6 +39,7 @@ featurescripts:
     description: Select a sketch and automatically create a new body for each section of the sketch. Useful for creating multiple tubes in one operation.
   TubeConverter:
     name: Tube Converter
+    howto: /blog/using-tube-converter/
     link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/7f62400703032fab9a7a3320
     image: /assets/images/tubeconverter.png
     description: Coverts a raw extrusion into a tube like is typically used in FRC with parameters for tube thickness and hole patterns.

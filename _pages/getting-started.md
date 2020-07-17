@@ -25,14 +25,59 @@ comments: false
         </div>
         <div id="mkcad">
             <h4>Linking MKCad Parts Library</h4>
-            <p>To get easy access to the COTS parts library when it is time to use them it is best to tag all of the documents you will be using. This section will walk you though how to do that.</p>
+            <p>To get easy access to the COTS parts library when it is time to use them it is best to tag all of the documents you will be using. This can be slighly confusing because there are so many copies of the library. This section will walk you though how to do that.</p>
             <ol>
             <li>Do a public search in Onshape for 'MKCad'. This can easily be done by clicking <a target="_blank" rel="noopener noreferrer" href="https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:MKCad">this link</a>.</li>
             <li>Click the label icon in the top right (next to the trash can) and then in the drop down click 'Create New Label'. Call it 'MKCad'</li>
             <li>Next you will add all any documents owned by 'Milkenknights Test Account' or 'Ricky Marcus' to this label by right clicking on the document, clicking 'Labels...', then adding to the newly created MKCad label</li>
-            <ul><li>There should be around 31 tagged documents by the time you're done</li></ul>
+            <ul><li>There should be around 33 tagged documents by the time you're done</li></ul>
             </ol>
             <p>You should now see the label with all the documents on the left side of navigation below the create button.</p>
+            <!-- Carousel -->
+            <div id="carouselExampleCaptions" class="carousel slide" data-interval="false" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active text-center p-4">
+                        <div class="row">
+                        <div class="col-md-10 mx-auto">
+                        <h5>Step 1</h5>
+                        <img src="/assets/images/getting-started/mkcad/step1.png" class="d-block w-100" alt="...">
+                        <p>Do a public search in Onshape for 'MKCad'. This can easily be done by clicking <a target="_blank" rel="noopener noreferrer" href="https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:MKCad">this link</a>.</p>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item text-center p-4">
+                        <div class="row">
+                        <div class="col-md-10 mx-auto">
+                        <h5>Step 2</h5>
+                        <img src="/assets/images/getting-started/mkcad/step2.png" class="d-block w-100" alt="...">
+                        <p>Click the label icon in the top right (next to the trash can) and then in the drop down click 'Create New Label'. Call it 'MKCad'</p>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item text-center p-4">
+                        <div class="row">
+                        <div class="col-md-10 mx-auto">
+                        <h5>Step 3</h5>
+                        <img src="/assets/images/getting-started/mkcad/step3.png" class="d-block w-100" alt="...">
+                        <p>Next you will add all any documents owned by 'Milkenknights Test Account' or 'Ricky Marcus' to this label by right clicking on the document, clicking 'Labels...', then adding to the newly created MKCad label. There are about 33 of these documents.</p>
+                        </div>
+                        </div>
+                    </div>                                        
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+                </div>
         </div>
         <div id="featurescripts">
             <h4>Adding Useful Featurescripts</h4>

@@ -34,6 +34,7 @@ comments: false
             </ol>
             <p>You should now see the label with all the documents on the left side of navigation below the create button.</p>
             <!-- Carousel -->
+            <h6>Alternative instructions in picture form</h6>
             <div id="carouselExampleCaptions" class="carousel slide" data-interval="false" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -81,7 +82,30 @@ comments: false
         </div>
         <div id="featurescripts">
             <h4>Adding Useful Featurescripts</h4>
-            <p>Add all custom featurescripts</p>
+            <p>Featurescripts are community created custom functions to automate portions of the design process. To learn more about what they can do visit <a href="/cad-library#Featurescripts">our page</a> on them.</p>
+            <ol>
+                <li>Open any Onshape document and go inside of a part studio</li>
+                <li>Click the right most button on the toolbar ('Add custom features')</li>
+                <li>Paste the link of the document you're looking to add from into the search bar and then select the individual scripts to add. Add the following scripts from their respective link.
+                <ul>
+                    <a href="https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/f59ee8c28530122eb7fa9f5c" target="_blank">Julia's Featurescripts</a>
+                    <ul>
+                    <li>Extrude Individual</li>
+                    <li>Tube Converter</li>
+                    <li>FilletXpert</li>
+                    <li>Shaft Generator</li>
+                    <li>Spacer Generator</li>
+                    <li>Gusset Generator</li>
+                    <li>Isogrid Pattern</li>
+                    <li>Motor Mounting</li>
+                    </ul>
+                    <a href="https://cad.onshape.com/documents/573f7d70e4b0fddafb52148c/v/85bb63ae5685ae3614116952/e/5eccf6d369b0312a728d77d3" target="_blank">FeatureScript Lighten</a>
+                    <ul>
+                    <li>Lighten</li>
+                    </ul>
+                </ul>
+                </li>
+            </ol>
         </div>
         <div id="tutorials">
             <h4>Complete Onshape Learning Pathway Tutorials</h4>
@@ -97,3 +121,14 @@ comments: false
         </div>
     </div>
 </div>
+
+<script>
+    function CopyText(text){
+        // var text = "Example text to appear on clipboard";
+        navigator.clipboard.writeText(text).then(function() {
+            // console.log('Async: Copying to clipboard was successful!');
+        }, function(err) {
+            console.error('Async: Could not copy text: ', err);
+        });
+    }
+</script>

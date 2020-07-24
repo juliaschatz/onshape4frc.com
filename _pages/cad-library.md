@@ -32,8 +32,11 @@ comments: false
 <div class="collapse" id="collapseExample">
   <div class="card card-body">
     <ol>
-        <li>Open any Onshape document</li>
+        <li>Open any Onshape document and go inside of a part studio</li>
         <li>Click the right most button on the toolbar ('Add custom features')</li>
+        <ul>
+            <li>Note: If you have previously added any Featurescripts one of those may show up as the right most icon. In that case click the dropdown to show the add button.</li>
+        </ul>
         <li>Paste the link of the Featurescript you're looking to add into the search bar (you can use the 'Copy Link' button next to the below scripts')
         <ul>
             <li>Note: Many of the below feature scripts are part of the same overall document so you can add multiple from the same link.</li>

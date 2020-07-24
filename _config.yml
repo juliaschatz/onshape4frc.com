@@ -73,6 +73,11 @@ featurescripts:
     link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/0d7c22c952c5c2ee2cfb1e43
     image: /assets/images/isogrid.png
     description: Adds an Isogrid pattern to parts.
+  motor-mound:
+    name: Motor Mount Hole Generator
+    link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/f7d2fd67eee8b713d4a91fb3
+    image: /assets/images/motor-mount-generator.png
+    description: Adds holes for motor mounting holes (and vents on 775 style motors).
   # Plugins
 plugins:
   - jekyll-paginate

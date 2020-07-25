@@ -109,7 +109,17 @@ comments: false
         </div>
         <div id="tutorials">
             <h4>Complete Onshape Learning Pathway Tutorials</h4>
-            <p>Follow along with the most useful Onshape tutorials on their website.</p>
+            <p>Onshape has a lot of useful curriculum to help you learn about the software on <a href="https://learn.onshape.com/" target="_blank">their website</a>. We recommend completing the following tutorials to get a good understanding of the basic concepts of OnShape.</p>
+            <ol>
+                <li><a href="https://learn.onshape.com/courses/fundamentals-navigating-onshape" target="_blank">Fundamentals 1: Navigating Onshape</a></li>
+                <li><a href="https://learn.onshape.com/courses/fundamentals-sketching" target="_blank">Fundamentals 2: Sketching</a></li>
+                <li><a href="https://learn.onshape.com/courses/fundamentals-part-design-using-part-studios" target="_blank">Fundamentals 3: Part Design Using Part Studios</a></li> 
+                <li><a href="https://learn.onshape.com/courses/fundamentals-multi-part-part-studios" target="_blank">Fundamentals 4: Multi-Part Part Studios</a></li>           
+                <li><a href="https://learn.onshape.com/courses/fundamentals-onshape-assemblies" target="_blank">Fundamentals 5: Onshape Assemblies</a></li>           
+                <li><a href="https://learn.onshape.com/courses/fundamentals-detailed-drawings" target="_blank">Fundamentals 6: Detailed Drawings</a></li>         
+                <li><a href="https://learn.onshape.com/courses/fundamentals-document-management" target="_blank">Fundamentals 7: Document Management</a></li>  
+                <li><a href="https://learn.onshape.com/courses/fundamentals-importing-and-exporting-data" target="_blank">Fundamentals 8: Importing and Exporting Data</a></li>           
+            </ol>
         </div>
     </div>
 <!-- Right side -->

@@ -34,7 +34,7 @@ comments: false
             </ol>
             <p>You should now see the label with all the documents on the left side of navigation below the create button.</p>
             <!-- Carousel -->
-            <h6>Alternative instructions in picture form</h6>
+            <!-- <h6>Alternative instructions in picture form</h6>
             <div id="carouselExampleCaptions" class="carousel slide" data-interval="false" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -78,7 +78,7 @@ comments: false
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
-                </div>
+                </div> -->
         </div>
         <div id="featurescripts">
             <h4>Adding Useful Featurescripts</h4>
@@ -103,6 +103,10 @@ comments: false
                     <ul>
                     <li>Lighten</li>
                     </ul>
+                    <a href="https://cad.onshape.com/documents/9cffa92db8b62219498f89af/w/06b332ccabc9d2e0aa0abf88/e/99672d1e329b38e647d90146" target="_blank">FRC Belt Calculator</a>
+                    <ul>
+                    <li>Belt Calculator</li>
+                    </ul>
                 </ul>
                 </li>
             </ol>
@@ -111,14 +115,15 @@ comments: false
             <h4>Complete Onshape Learning Pathway Tutorials</h4>
             <p>Onshape has a lot of useful curriculum to help you learn about the software on <a href="https://learn.onshape.com/" target="_blank">their website</a>. We recommend completing the following tutorials to get a good understanding of the basic concepts of OnShape.</p>
             <ol>
-                <li><a href="https://learn.onshape.com/courses/fundamentals-navigating-onshape" target="_blank">Fundamentals 1: Navigating Onshape</a></li>
-                <li><a href="https://learn.onshape.com/courses/fundamentals-sketching" target="_blank">Fundamentals 2: Sketching</a></li>
-                <li><a href="https://learn.onshape.com/courses/fundamentals-part-design-using-part-studios" target="_blank">Fundamentals 3: Part Design Using Part Studios</a></li> 
-                <li><a href="https://learn.onshape.com/courses/fundamentals-multi-part-part-studios" target="_blank">Fundamentals 4: Multi-Part Part Studios</a></li>           
-                <li><a href="https://learn.onshape.com/courses/fundamentals-onshape-assemblies" target="_blank">Fundamentals 5: Onshape Assemblies</a></li>           
-                <li><a href="https://learn.onshape.com/courses/fundamentals-detailed-drawings" target="_blank">Fundamentals 6: Detailed Drawings</a></li>         
-                <li><a href="https://learn.onshape.com/courses/fundamentals-document-management" target="_blank">Fundamentals 7: Document Management</a></li>  
-                <li><a href="https://learn.onshape.com/courses/fundamentals-importing-and-exporting-data" target="_blank">Fundamentals 8: Importing and Exporting Data</a></li>           
+                <li><a href="https://learn.onshape.com/courses/introduction-to-parametric-feature-based-cad" target="_blank">Introduction to Parametric Feature-Based CAD</a></li>  
+                <li><a href="https://learn.onshape.com/courses/fundamentals-navigating-onshape" target="_blank">Navigating Onshape</a></li>
+                <li><a href="https://learn.onshape.com/courses/fundamentals-sketching" target="_blank">Sketching</a></li>
+                <li><a href="https://learn.onshape.com/courses/fundamentals-part-design-using-part-studios" target="_blank">Part Design Using Part Studios</a></li> 
+                <li><a href="https://learn.onshape.com/courses/fundamentals-multi-part-part-studios" target="_blank">Multi-Part Part Studios</a></li>           
+                <li><a href="https://learn.onshape.com/courses/fundamentals-onshape-assemblies" target="_blank">Onshape Assemblies</a></li>           
+                <li><a href="https://learn.onshape.com/courses/fundamentals-detailed-drawings" target="_blank">Detailed Drawings</a></li>         
+                <li><a href="https://learn.onshape.com/courses/fundamentals-document-management" target="_blank">Document Management</a></li>  
+                <li><a href="https://learn.onshape.com/courses/fundamentals-importing-and-exporting-data" target="_blank">Importing and Exporting Data</a></li>           
             </ol>
         </div>
     </div>

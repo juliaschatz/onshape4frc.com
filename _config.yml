@@ -68,6 +68,11 @@ featurescripts:
     link: https://cad.onshape.com/documents/573f7d70e4b0fddafb52148c/v/85bb63ae5685ae3614116952/e/5eccf6d369b0312a728d77d3
     image: /assets/images/lighten.png
     description: Lighten your parts easier with this featurescript and a sketch of the areas you want removed.
+  belt:
+    name: Belt Generator
+    link: https://cad.onshape.com/documents/9cffa92db8b62219498f89af/w/06b332ccabc9d2e0aa0abf88/e/99672d1e329b38e647d90146
+    image: /assets/images/belt-generator.png
+    description: Generate belts/pulleys between given center points.
   iso:
     name: Isogrid Pattern
     link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/0d7c22c952c5c2ee2cfb1e43

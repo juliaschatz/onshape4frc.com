@@ -12,8 +12,6 @@ comments: false
 
 <h4>Meet the Team</h4>
 
-<p>Check out the list of our contributers to the site. If you have content you're interested in adding feel free to using our <a href="/contribute">contribute</a> page.</p>
-
 {% for authors in site.authors %}
 {% assign author = authors[1] %}
 {% include author.html %}

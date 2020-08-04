@@ -74,8 +74,23 @@ comments: false
 <br>
 {% endfor %}
 
+<div id="RobotCAD">
+<h4>Robot CAD Collection</h4>
+<p>Robot CAD from previous years can be a great learning resource to look at how other teams solved old challenges. Thankfully teams have compiled lists together to make it easy to find robots from specific teams and years.</p>
+<div class="row justify-content-center">
+    <div class="col-md-4 pr-5">
+        <img src="/assets/images/3192020.png" />
+    </div>
+    <div class="col-md-8 pr-5">
+        <h5>Useful Links</h5>
+        <a class="btn btn-primary" href="http://cadcollection.Spectrum3847.org" target="_blank">Spectrum CAD Collection</a>
+        <hr>
+        <a class="btn btn-primary" href="https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:TCA%20FRC" target="_blank">The Compass Alliance Onshape Collection</a>
+    </div>
+</div>
 </div>
 
+</div>
 </div>
 
 <!-- Right side -->

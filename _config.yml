@@ -21,6 +21,14 @@ authors:
     email: maxwestwater@gmail.com
     cd: maximillian
     description: "The lead silver medalist."
+  dave:
+    name: Dave Powers
+    display_name: Dave Powers
+    team: 6328
+    avatar: https://www.chiefdelphi.com/user_avatar/www.chiefdelphi.com/davepowers/240/126656_2.png
+    email: dave@littletonrobotics.org
+    cd: davepowers
+    description: "The lead milk consumer."
   jack:
     name: Jack Tervay
     display_name: Jack Tervay

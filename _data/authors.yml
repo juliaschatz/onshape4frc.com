@@ -1,0 +1,41 @@
+max:
+  show: true
+  name: Max Westwater
+  display_name: Max Westwater
+  team: 6328/5254
+  avatar: https://www.chiefdelphi.com/user_avatar/www.chiefdelphi.com/maximillian/120/146348_2.png
+  email: max.westwater@littletonrobotics.org
+  cd: maximillian
+  description: "The lead silver medalist."
+dave:
+  show: true
+  name: Dave Powers
+  display_name: Dave Powers
+  team: 6328
+  avatar: https://www.chiefdelphi.com/user_avatar/www.chiefdelphi.com/davepowers/240/126656_2.png
+  email: dave@littletonrobotics.org
+  cd: davepowers
+  description: "The lead milk consumer."
+jack:
+  show: true
+  name: Jack Tervay
+  display_name: Jack Tervay
+  team: 6328/2791
+  avatar: https://www.chiefdelphi.com/letter_avatar_proxy/v4/letter/j/5daacb/120.png
+  email: jacktervay@gmail.com
+  cd: jacktervay
+  description: "6328 lead technical mentor."
+julia:
+  show: false
+  name: Julia Schatz
+  display_name: Julia
+  team:
+  avatar: https://www.chiefdelphi.com/user_avatar/www.chiefdelphi.com/dydx/240/150238_2.png
+  cd: dydx
+alex:
+  show: false
+  name: Alex Kempen
+  display_name: Alex
+  team: 1745
+  avatar: https://www.chiefdelphi.com/letter_avatar_proxy/v4/letter/v/8dc957/240.png
+  cd: venomousfire

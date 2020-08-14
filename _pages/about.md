@@ -12,9 +12,11 @@ comments: false
 
 <h4>Meet the Team</h4>
 
-{% for authors in site.authors %}
+{% for authors in site.data.authors %}
 {% assign author = authors[1] %}
+{% if author.show == true %}
 {% include author.html %}
+{% endif %}
 {% endfor %}
 
 <h4>Want to see yourself on the list?</h4>

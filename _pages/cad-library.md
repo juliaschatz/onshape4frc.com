@@ -47,7 +47,8 @@ comments: false
   </div>
 </div>
 
-{% for featurescript in site.featurescripts %}
+{% for featurescript in site.data.featurescripts %}
+
 {% assign feature = featurescript[1] %}
 
 <h5>{{ feature.name }}</h5>
@@ -55,6 +56,10 @@ comments: false
 <div class="row">
     <div class="col-md-4 pr-5">
         <img class="img-fluid lazyimg" src="{{ feature.image }}">
+        {% if feature.author %}
+        {% assign author = site.data.authors[feature.author] %}
+        <p>Made by <a href="https://www.chiefdelphi.com/u/{{ author.cd }}" target="_blank">{{ author.display_name }}</a></p>
+        {% endif %}
     </div>
     <div class="col-md-8 pr-5">
     <p>{{ feature.description }}</p>

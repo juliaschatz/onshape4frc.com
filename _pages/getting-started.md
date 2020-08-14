@@ -86,7 +86,7 @@ comments: false
             <ol>
                 <li>Open any Onshape document and go inside of a part studio</li>
                 <li>Click the right most button on the toolbar ('Add custom features')</li>
-                <li>Paste the link of the document you're looking to add from into the search bar and then select the individual scripts to add. Add the following scripts from their respective link.
+                <li>Paste the link of the document you're looking to add from into the search bar and then select the individual scripts to add. Add the following scripts from their respective link. (these are only our recommendation, we will try to keep this list updated when new ones are released)
                 <ul>
                     <a href="https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/f59ee8c28530122eb7fa9f5c" target="_blank">Julia's Featurescripts</a>
                     <ul>

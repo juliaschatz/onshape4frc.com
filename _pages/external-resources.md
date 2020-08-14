@@ -10,6 +10,12 @@ comments: false
 
 <p>This is a collection of other resources created by external members of the community. Not all of them are done in Onshape but still provide useful concepts which can be transferred between cad programs.</p>
 
+<div id="onshapeWebinar">
+<h4>Official Onshape Webinars</h4>
+<p>This is a great video series created by PTC (makers of Onshape) specifically for how to use their product for FRC.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLOPIJtr7Kd_4fWM4k3pIYLE6qnFJXDeSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <div id="RAMP">
 <h4>RAMP Video Series</h4>
 

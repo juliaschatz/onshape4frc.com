@@ -13,7 +13,7 @@ comments: false
 <div id="MKCad">
 <h4>MKCad Onshape Library</h4>
 
-<p>This library has a wide variety of COTs parts which can be easily imported into your assemblies. This is a community created library and you can see its latest updates in the <a target="_blank" href="https://www.chiefdelphi.com/t/mkcad-2020-season-updates/367821">ChiefDelphi Thread</a>. You can find the different documents by searching for them in the public section of onshape or simply clicking <a target="_blank" rel="noopener noreferrer" href="https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:MKCad">this link</a>.</p>
+<p>This library has a wide variety of COTs parts which can be easily imported into your assemblies. This is a community created library and you can see its latest updates in the <a target="_blank" href="https://www.chiefdelphi.com/t/mkcad-2020-season-updates/367821">ChiefDelphi Thread</a>. You can find the different documents by searching for them in the public section of onshape or simply clicking <a target="_blank" rel="noopener noreferrer" href="https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=type:document%20name:%22MKCad%22%20description:%22Official%22">this link</a>.</p>
 
 <p>To easily find these documents when it is time to insert them into your assemblies it is recommended to tag them. This process is outlined in our <a href="/getting-started#mkcad">getting started page</a>.</p>
 

@@ -1,5 +1,6 @@
 ExtrudeIndividual:
   name: Extrude Individual
+  howto: /blog/using-extrude-individual/
   link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/f59ee8c28530122eb7fa9f5c
   image: /assets/images/extrudeindividual.png
   description: Select a sketch and automatically create a new body for each section of the sketch. Useful for creating multiple tubes in one operation.
@@ -19,6 +20,7 @@ FilletXpert:
   author: julia
 shaft:
   name: Shaft Generator
+  howto: /blog/using-shaft-generator/
   link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/8db1f48368bdac821997185f
   image: /assets/images/shaft-generator.png
   description: Quickly generate shafts with parameters for choosing shaft retention methods.
@@ -37,6 +39,7 @@ gusset:
   author: julia
 lighten:
   name: Lighten
+  howto: /blog/using-lighten/
   link: https://cad.onshape.com/documents/573f7d70e4b0fddafb52148c/v/85bb63ae5685ae3614116952/e/5eccf6d369b0312a728d77d3
   image: /assets/images/lighten.png
   description: Lighten your parts easier with this featurescript and a sketch of the areas you want removed.

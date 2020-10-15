@@ -21,21 +21,6 @@
 
 </head>
 
-{% if jekyll.environment == 'production' %}
-<!-- change your GA id in _config.yml -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', '{{ site.google_analytics }}');
-</script>
-{% endif %}
-
-
-
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body class="{{layout}}">
@@ -170,6 +155,7 @@
                         Built by Max Westwater of FRC 6328
                     </div>
                     <div class="col-md-6 col-sm-6 text-center text-lg-right">
+                        <a href="/privacy">Privacy Information</a> | 
                         Built using the
                         <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish
                             Jekyll Theme</a>.
@@ -207,6 +193,7 @@
     <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
     {% endif %}
 
+    {% include cookie-consent.html %}
 </body>
 
 </html>

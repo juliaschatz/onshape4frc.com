@@ -79,6 +79,11 @@ comments: false
 <br>
 {% endfor %}
 
+<div>
+    <h5>General Featurescript Collection</h5>
+    <p>List of various useful scripts which aren't FRC specific: <a href='https://github.com/dcowden/featurescript' target='_blank'>Link</a></p>
+</div>
+
 <div id="RobotCAD">
 <h4>Robot CAD Collection</h4>
 <p>Robot CAD from previous years can be a great learning resource to look at how other teams solved old challenges. Thankfully teams have compiled lists together to make it easy to find robots from specific teams and years.</p>

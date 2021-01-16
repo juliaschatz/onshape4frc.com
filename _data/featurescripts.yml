@@ -55,9 +55,26 @@ iso:
   image: /assets/images/isogrid.png
   description: Adds an Isogrid pattern to parts.
   author: julia
-motor-mound:
+motor-mount:
   name: Motor Mount Hole Generator
   link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/f7d2fd67eee8b713d4a91fb3
   image: /assets/images/motor-mount-generator.png
   description: Adds holes for motor mounting holes (and vents on 775 style motors).
   author: julia
+laser-joint:
+  name: Laser joint generator
+  howto: https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/v/a5c24a6977214781eaf042fa/e/7af109b2f1cead90850525ae
+  link: https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/v/a5c24a6977214781eaf042fa/e/7af109b2f1cead90850525ae
+  image: /assets/images/laser-joint-generator.png
+  description: Adds slots for mounting two pieces of laser cut material together.
+t-slot-joint:
+  name: T-slot joint generator
+  howto: https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/v/3f40c3c40c8dbc9e01713c27/e/acc455ae2adcf11a571ba510
+  link: https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/v/3f40c3c40c8dbc9e01713c27/e/acc455ae2adcf11a571ba510
+  image: /assets/images/t-slot-generator.png
+  description: Adds slots and holes for mounting two pieces of laser cut material together with a bolt and nut.
+auto-layout:
+  name: Automatic part layout
+  link: https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876
+  image: /assets/images/auto-layout.png
+  description: Automatically lays out parts on a flat surface for laser cutting or milling.

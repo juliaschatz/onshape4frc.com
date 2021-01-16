@@ -20,7 +20,8 @@ comments: false
                 <li>Open the Onshape account activation email and click the link to activate your account</li>
                 <li>You will be sent to a page where you can now create your username and password</li>
                 <li><b>Optional: Join the Onshape Team for your FRC Team</b></li>
-                <ul><li>If you have an Onshape team you will need to contact whoever has access on your team with the email you used to sign up for Onshape so you can be added.</li></ul>
+                <ul><li>If you have an Onshape team you will need to contact whoever has access on your team with the email you used to sign up for Onshape so you can be added.</li>
+                <li>Don't have a team? You can lean how to set one up <a href='https://www.onshape.com/en/resource-center/articles/how-to-onboard-your-first-robotics-team' target="_blank" rel="noopener noreferrer">here</a>.</li></ul>
                 </ol>
         </div>
         <div id="mkcad">
@@ -98,13 +99,13 @@ comments: false
                     <li>Isogrid Pattern</li>
                     <li>Motor Mounting</li>
                     </ul>
-                    <a href="https://cad.onshape.com/documents/573f7d70e4b0fddafb52148c/v/85bb63ae5685ae3614116952/e/5eccf6d369b0312a728d77d3" target="_blank">FeatureScript Lighten</a>
+                    <a href="https://cad.onshape.com/documents/573f7d70e4b0fddafb52148c/v/85bb63ae5685ae3614116952/e/5eccf6d369b0312a728d77d3" target="_blank">FeatureScript Lighten</a><br>
+                    <a href="https://cad.onshape.com/documents/9cffa92db8b62219498f89af/w/06b332ccabc9d2e0aa0abf88/e/99672d1e329b38e647d90146" target="_blank">FRC Belt Calculator</a><br>
+                    <a>Useful scripts for laser cutting</a>
                     <ul>
-                    <li>Lighten</li>
-                    </ul>
-                    <a href="https://cad.onshape.com/documents/9cffa92db8b62219498f89af/w/06b332ccabc9d2e0aa0abf88/e/99672d1e329b38e647d90146" target="_blank">FRC Belt Calculator</a>
-                    <ul>
-                    <li>Belt Calculator</li>
+                    <li><a href="https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/v/a5c24a6977214781eaf042fa/e/7af109b2f1cead90850525ae" target="_blank">Laser Joint</a></li>
+                    <li><a href="https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/v/3f40c3c40c8dbc9e01713c27/e/acc455ae2adcf11a571ba510" target="_blank">T-Slot Joint</a></li>
+                    <li><a href="https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876" target="_blank">Automatic Layout</a></li>
                     </ul>
                 </ul>
                 </li>

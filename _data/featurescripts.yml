@@ -12,6 +12,12 @@ TubeConverter:
   image: /assets/images/tubeconverter.png
   description: Coverts a raw extrusion into a tube like is typically used in FRC with parameters for tube thickness and hole patterns.
   author: julia
+CustomExtrusion:
+  name: Custom Length Extrusion
+  link: https://cad.onshape.com/documents/18b35cfcf2c6cf5668830f90/w/15216769574e8a81c923173f/e/5a93de3b70e102d2a2612a27
+  image: /assets/images/customextrusion.jpeg
+  description: Quickly generate custom lengths of a wide variety of extrusions.
+  author: ricky
 FilletXpert:
   name: FilletXpert
   link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/be51a7d601bee5eb80c431ad
@@ -43,6 +49,12 @@ lighten:
   link: https://cad.onshape.com/documents/573f7d70e4b0fddafb52148c/v/85bb63ae5685ae3614116952/e/5eccf6d369b0312a728d77d3
   image: /assets/images/lighten.png
   description: Lighten your parts easier with this featurescript and a sketch of the areas you want removed.
+plate:
+  name: Plate Generator
+  link: https://cad.onshape.com/documents/9cffa92db8b62219498f89af/w/06b332ccabc9d2e0aa0abf88/e/13c1364fc3602748444c2f48
+  image: /assets/images/plate-generator.png
+  description: Generate custom plates from nothing more than a few sketch points.
+  author: alex
 belt:
   name: Belt Generator
   link: https://cad.onshape.com/documents/9cffa92db8b62219498f89af/w/06b332ccabc9d2e0aa0abf88/e/99672d1e329b38e647d90146
@@ -61,6 +73,12 @@ motor-mount:
   image: /assets/images/motor-mount-generator.png
   description: Adds holes for motor mounting holes (and vents on 775 style motors).
   author: julia
+part-numbering:
+  name: Automated Part Numbering
+  link: https://cad.onshape.com/documents/443e443bb2a37736743bf314/w/6539c7379d36307a6a2cc01d/e/ef4e1b0c40e1dbf2ee36d02e
+  image: /assets/images/partnumbering.png
+  description: Automatically assign part numbers to your parts.
+  author: abhi
 laser-joint:
   name: Laser joint generator
   howto: https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/v/a5c24a6977214781eaf042fa/e/7af109b2f1cead90850525ae

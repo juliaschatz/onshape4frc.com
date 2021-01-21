@@ -39,3 +39,17 @@ alex:
   team: 1745
   avatar: https://www.chiefdelphi.com/letter_avatar_proxy/v4/letter/v/8dc957/240.png
   cd: venomousfire
+ricky:
+  show: false
+  name: Ricky Marcus
+  display_name: Ricky
+  team: 1745
+  avatar: https://www.chiefdelphi.com/letter_avatar_proxy/v4/letter/r/e19adc/120.png
+  cd: rickyrobot
+abhi:
+  show: false
+  name: Abhinav Diddee
+  display_name: Abhi
+  team: 7461
+  avatar: https://www.chiefdelphi.com/user_avatar/www.chiefdelphi.com/heatblast016/120/148485_2.png
+  cd: heatblast016

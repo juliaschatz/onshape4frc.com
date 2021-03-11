@@ -4,8 +4,8 @@ title: "Reducing Robot Weight - Best Practices & Strategies"
 author: jack
 categories: [Design]
 image: assets/images/blog/reducing-robot-weight/cover-image.jpeg
-featured: true
-hidden: false
+featured: false
+hidden: true
 comments: false
 ---
 

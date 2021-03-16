@@ -61,6 +61,12 @@ belt:
   image: /assets/images/belt-generator.png
   description: Generate belts/pulleys between given center points.
   author: alex
+gear:
+  name: Spur Gear Generator
+  link: https://cad.onshape.com/documents/9cffa92db8b62219498f89af/w/06b332ccabc9d2e0aa0abf88/e/af546065f335c8ec6da0f233
+  image: /assets/images/gear-generator.png
+  description: Generate highly customizable spur, helical, and double helical gears.
+  author: alex
 iso:
   name: Isogrid Pattern
   link: https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/0d7c22c952c5c2ee2cfb1e43
